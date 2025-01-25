@@ -74,12 +74,15 @@
   </a>
 </div>
 
-<div style="display: flex; margin-top:30px; justify-content: space-between; gap: 10px; margin-bottom: 20px;">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrQreb&show_icons=true&locale=en" alt="MrQreb" />
+</p>
+<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrQreb&" alt="MrQreb" />
-</div>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrQreb&show_icons=true&locale=en&layout=compact" alt="MrQreb" /></p>
-
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrQreb&show_icons=true&locale=en&layout=compact" alt="MrQreb" />
+</p>
 
 
 
