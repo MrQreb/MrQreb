@@ -1,10 +1,4 @@
 <h1>Hi 👋, I'm Web Developer</h1>
-
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/129618683?s=400&u=9e1dd65bd5ff6bec72d94137f1968853063440a2&v=4" />
- 
-</div>
-
 <h1>🚀 Current Stack</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -32,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-<h2>🚀 Knowledge in</h2>
+<h2>🚀 Knolage in</h2>
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -58,13 +52,19 @@
 
 ###
 
-
+<div align="center">
+  <h>MrQreb></h>
+  <img height="200" src="https://avatars.githubusercontent.com/u/129618683?s=400&u=9e1dd65bd5ff6bec72d94137f1968853063440a2&v=4"  />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
+
 
 
 <h2>⚡️ Where to find me</h2>
@@ -74,21 +74,12 @@
   </a>
 </div>
 
-<h2>📚 Skills </h2>
-<div align="left" style="display: flex; flex-direction: row; gap: 10px;">
-  <div>
-    <h3>🌐 English B1</h3>
-  </div>
-  <div>
-    <h3>📚 Self-taught</h3>
-  </div>
-  <div>
-    <h3>👑 Leadership</h3>
-  </div>
-  <div>
-    <h3>🤝 Teamwork</h3>
-  </div>
+<div style="display: flex; margin-top:30px; justify-content: space-between; gap: 10px; margin-bottom: 20px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrQreb&show_icons=true&locale=en" alt="MrQreb" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrQreb&" alt="MrQreb" />
 </div>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrQreb&show_icons=true&locale=en&layout=compact" alt="MrQreb" /></p>
+
 
 
 
