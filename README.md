@@ -52,10 +52,7 @@
 
 ###
 
-<div align="center">
-  <h>MrQreb></h>
-  <img height="200" src="https://avatars.githubusercontent.com/u/129618683?s=400&u=9e1dd65bd5ff6bec72d94137f1968853063440a2&v=4"  />
-</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
